@@ -1,0 +1,116 @@
+﻿{
+  "testString": "this is test !!",
+  "testArrayString": [
+    "I",
+    "am",
+    "tashima"
+  ],
+  "testArrayBytes": "AQIDBAUGBwgJAA==",
+  "inner": {
+    "testDouble": 0.0001,
+    "testInt": 9999,
+    "testBool": true
+  },
+  "innerList": [
+    {
+      "testDouble": 0.80135157415706271,
+      "testInt": 179804501,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.61617344320573542,
+      "testInt": 1952680536,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.96406146137232962,
+      "testInt": 904439392,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.18251967345481723,
+      "testInt": 1801961281,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.41595844943819493,
+      "testInt": 996407746,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.16353157961905543,
+      "testInt": 849716769,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.32253179621069311,
+      "testInt": 375596069,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.4536429943766645,
+      "testInt": 894163149,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.1216010097980504,
+      "testInt": 1046306038,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.44292821755769113,
+      "testInt": 1166313116,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.088186439633456265,
+      "testInt": 1618407118,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.26393952838328644,
+      "testInt": 434604932,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.57254448513153222,
+      "testInt": 370079925,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.31979443101202809,
+      "testInt": 575504992,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.17902898051730776,
+      "testInt": 862685609,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.99661859264439834,
+      "testInt": 1259328821,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.35479031845684644,
+      "testInt": 1952485710,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.24271188361696522,
+      "testInt": 894914980,
+      "testBool": false
+    },
+    {
+      "testDouble": 0.78691419250653782,
+      "testInt": 265101539,
+      "testBool": true
+    },
+    {
+      "testDouble": 0.66892894016063253,
+      "testInt": 2044440319,
+      "testBool": false
+    }
+  ]
+}
